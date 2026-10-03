@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Inter + IBM Plex Sans Arabic",
+    "previewText": "The Quick Brown Fox — مرحبا بكم في ديسكورد",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/YEMENI-modder/Kettu-Customfontt-Arb-Eng/raw/refs/heads/main/InterPlexArabic-Bold.ttf",
+        "ggsans-Bold": "https://github.com/YEMENI-modder/Kettu-Customfontt-Arb-Eng/raw/refs/heads/main/InterPlexArabic-Bold.ttf",
+        "ggsans-BoldItalic": "https://github.com/YEMENI-modder/Kettu-Customfontt-Arb-Eng/raw/refs/heads/main/InterPlexArabic-Bold.ttf",
+        "ggsans-ExtraBold": "https://github.com/YEMENI-modder/Kettu-Customfontt-Arb-Eng/raw/refs/heads/main/InterPlexArabic-Bold.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/YEMENI-modder/Kettu-Customfontt-Arb-Eng/raw/refs/heads/main/InterPlexArabic-Bold.ttf",
+        "ggsans-Medium": "https://github.com/YEMENI-modder/Kettu-Customfontt-Arb-Eng/raw/refs/heads/main/InterPlexArabic-Bold.ttf",
+        "ggsans-MediumItalic": "https://github.com/YEMENI-modder/Kettu-Customfontt-Arb-Eng/raw/refs/heads/main/InterPlexArabic-Bold.ttf",
+        "ggsans-Normal": "https://github.com/YEMENI-modder/Kettu-Customfontt-Arb-Eng/raw/refs/heads/main/InterPlexArabic-Bold.ttf",
+        "ggsans-NormalItalic": "https://github.com/YEMENI-modder/Kettu-Customfontt-Arb-Eng/raw/refs/heads/main/InterPlexArabic-Bold.ttf",
+        "ggsans-Semibold": "https://github.com/YEMENI-modder/Kettu-Customfontt-Arb-Eng/raw/refs/heads/main/InterPlexArabic-Bold.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/YEMENI-modder/Kettu-Customfontt-Arb-Eng/raw/refs/heads/main/InterPlexArabic-Bold.ttf",
+        "NotoSans-Bold": "https://github.com/YEMENI-modder/Kettu-Customfontt-Arb-Eng/raw/refs/heads/main/InterPlexArabic-Bold.ttf",
+        "NotoSans-ExtraBold": "https://github.com/YEMENI-modder/Kettu-Customfontt-Arb-Eng/raw/refs/heads/main/InterPlexArabic-Bold.ttf",
+        "NotoSans-Medium": "https://github.com/YEMENI-modder/Kettu-Customfontt-Arb-Eng/raw/refs/heads/main/InterPlexArabic-Bold.ttf",
+        "NotoSans-Normal": "https://github.com/YEMENI-modder/Kettu-Customfontt-Arb-Eng/raw/refs/heads/main/InterPlexArabic-Bold.ttf",
+        "NotoSans-NormalItalic": "https://github.com/YEMENI-modder/Kettu-Customfontt-Arb-Eng/raw/refs/heads/main/InterPlexArabic-Bold.ttf",
+        "NotoSans-Semibold": "https://github.com/YEMENI-modder/Kettu-Customfontt-Arb-Eng/raw/refs/heads/main/InterPlexArabic-Bold.ttf",
+        "ggmono-Normal": "https://github.com/YEMENI-modder/Kettu-Customfontt-Arb-Eng/raw/refs/heads/main/InterPlexArabic-Bold.ttf"
+    }
+}
